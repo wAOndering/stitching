@@ -20,10 +20,10 @@ Additional utilities from wholebrainsoftware also present [here](https://github.
 ```
 ## stitching option
 
-<img src="docs/stitching_type1-1.png?raw=true" width="80%" alt="Output from schematic.plot(dataset)">
+<img src="docs/stitching_type1-1.png">
 
 _**eg. 1** Output from `option1` ._
 
-<img src="docs/stitching_type2-1.png?raw=true" width="80%" alt="Output from schematic.plot(dataset)">
+<img src="docs/stitching_type2-1.png">
 
 _**eg. 2** Output from `option2` ._
