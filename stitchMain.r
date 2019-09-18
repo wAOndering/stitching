@@ -8,7 +8,7 @@ path <- readline(prompt="copy and paste the directory of interest where images t
 cat(path)
 
 
-cat('select which type of stitching to perform \n \n')
+cat(' \n \n select which type of stitching to perform \n \n')
 cat('[1] option 1 stitch images which have been acquired with a cross pattern (see README) \n')
 cat('[2] option 2 stitch images which have been acquired with a rectangular pattern (see README)  \n \n')
 inputChoice <- readline(prompt="input choice (eg. 1): ")

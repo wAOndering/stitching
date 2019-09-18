@@ -11,12 +11,14 @@ Additional utilities from wholebrainsoftware also present [here](https://github.
 
 ## using the stitching batch program
 
-- Open command line (cmd) or terminal
+- Open command line or terminal and follow those steps:
 
 ```R
 > cmd
+# navigate to the stitching repository
+> cd C:\git\stitching # for example (tips: after tiping cd drag the folder)
 > R
-> source('C:/git/stitching/stitchMain.r')
+> source('stitchMain.r')
 ```
 ## stitching option
 
