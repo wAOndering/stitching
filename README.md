@@ -23,8 +23,8 @@ Additional utilities from wholebrainsoftware also present [here](https://github.
 
 <img src="docs/stitching_type1-1.png">
 
-_**eg. 1** Output from `option1` ._
+_**eg. 1** Output from `option1` in this output the black areas are self generated to complete the specific pattern (other pattern have not been implemented)._
 
 <img src="docs/stitching_type2-1.png">
 
-_**eg. 2** Output from `option2` ._
+_**eg. 2** Output from `option2` in this output the black areas have been acquired during imaging._
