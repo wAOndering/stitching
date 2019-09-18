@@ -1,6 +1,6 @@
 # stitching
-batch stitching of images using [wholebrainsoftware](https://github.com/tractatus/wholebrain)  
-Additional utilities from wholebrainsoftware also present [here](https://github.com/tractatus/wholebrain-examples) 
+Batch stitching of images using [wholebrainsoftware](https://github.com/tractatus/wholebrain)  
+Additional utilities from wholebrainsoftware are also present [here](https://github.com/tractatus/wholebrain-examples) 
 
 ## installing wholebrain software
 
