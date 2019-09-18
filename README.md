@@ -1,5 +1,5 @@
 # stitching
-batch stitching of images using [wholebrainsoftware](https://github.com/tractatus/wholebrain)
+batch stitching of images using [wholebrainsoftware](https://github.com/tractatus/wholebrain)  
 Additional utilities from wholebrainsoftware also present [here](https://github.com/tractatus/wholebrain-examples) 
 
 ## installing wholebrain software
@@ -16,7 +16,7 @@ Additional utilities from wholebrainsoftware also present [here](https://github.
 ```R
 > cmd
 > R
-> source('C:/git/stitching/main.r')
+> source('C:/git/stitching/stitchMain.r')
 ```
 ## stitching option
 
