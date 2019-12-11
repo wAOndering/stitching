@@ -18,7 +18,7 @@ defineOverlap<-0.01
 defineOverlap <- readline(prompt="percentage of overlap between images \n for 10 % overlap input 0.01 :")
 
 if(inputChoice ==1){
-	source('stitchExtrapattern.r')
+	source('stitchExtrapattern7.r')
 }else{
 	source('stitchSimple.r')
 }
