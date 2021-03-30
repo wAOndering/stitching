@@ -4,6 +4,8 @@ Additional utilities from wholebrainsoftware are also present [here](https://git
 
 ## installing wholebrain software
 
+
+- For stable instruction with R 3.6.3 [link](ttps://github.com/wAOndering/stitching/blob/master/docs/installInstruction.r)
 - Windows [updated instructions](https://github.com/wAOndering/stitching/blob/master/docs/WholeBrainWindowsInstallNov2018.pdf)
 - For Linux and MacOS see:
 	- [gitter channel](https://gitter.im/tractatus/Lobby)
